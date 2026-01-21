@@ -31,8 +31,8 @@ cp .env.example .env
 COPILOT_MODEL=gpt-5-mini
 
 # Grafana Cloud Prometheus設定
-INSTANCE_ID=1464505
-PROM_URL=https://prometheus-prod-37-prod-ap-southeast-1.grafana.net/api/prom
+INSTANCE_ID=XXXXXXX
+PROM_URL=https://prometheus-prod-XX-prod-ap-southeast-1.grafana.net/api/prom
 API_KEY=your_api_key_here
 
 # 異常検知の閾値（必要に応じて調整）
